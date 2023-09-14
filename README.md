@@ -1,16 +1,29 @@
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Nakul Aeran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nakul-aeran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul-aeran" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/fake_iiits" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fake_iiits" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nakul1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nakul1123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aerannnakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aerannnakul" height="30" width="40" /></a>
-</p>
+# About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I am Nakul Aeran, currently pursuing a Bachelor of Technology in Information Technology at the Indian Institute of Information Technology, Sonepat, with an expected graduation in 2024.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakulaeran&show_icons=true&locale=en&layout=compact" alt="nakulaeran" /></p>
+## Education
+- **Bachelor's Degree**: My academic journey has been focused on a range of relevant subjects, including Computer Programming, Web Designing, Algorithms, Data Structures, and Object-Oriented Programming using C++. I maintain a GPA of 8.1/10.
 
+## Work Experience
+I had the privilege to intern as a Software Developer at Uniton Technology Private Limited in Delhi from May 2023 to July 2023. During this time, I contributed to the development of a MERN stack website for relocation services. My role involved designing Express RESTful APIs, enhancing backend security, and ensuring a seamless user experience.
+
+## Technical Skills
+My proficiency extends across various programming languages and technologies, such as C, C++, Python, JavaScript, MongoDB, HTML, CSS, SQL, and more. I am also well-versed in data structures and have experience with Linux/Unix, Node.js, WebSocket, GraphQL, and Express.
+
+## Achievements
+I am passionate about competitive programming and have earned notable rankings and ratings on platforms like Google Kickstart, Codeforces, InterviewBit, and CodeChef. Additionally, I've actively participated in ACM-ICPC, demonstrating my collaborative skills and problem-solving abilities.
+
+## Projects
+I take pride in building full-stack web applications, such as "TradeHub," which utilizes Express.js and MongoDB to create an authentication-enabled trading platform. I've also worked on an E-Commerce React Web Application, integrating the Stripe payment gateway for secure transactions. Furthermore, I developed a responsive Twitter clone and an innovative React expense tracker.
+
+I prioritize user-centric design in my projects, resulting in seamless and user-friendly experiences.
+
+Feel free to explore my GitHub repository to delve into my coding journey and projects!
